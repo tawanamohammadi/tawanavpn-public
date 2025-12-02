@@ -4,13 +4,13 @@ Date: 2025-12-02
 License: CC BY 4.0
 
 Security statement
-This document is a funding roadmap and review workflow only. It does not publish technical or operational details for circumventing censorship.
+This document is strictly a funding roadmap and review workflow. It intentionally does not publish any technical, operational, or step‑by‑step details for circumventing censorship.
 
 About the author
-This document was prepared by Tawana Mohammadi. Tawana is a researcher and instructor in artificial intelligence and an advocate for digital rights. The Tawanavpn / Tawana Proxy project aims to improve free and secure internet access for Iranian users, with particular support for journalists and civil society actors. This section is for public introduction only and contains no technical or operational details.
+This document was prepared by Tawana Mohammadi. Tawana is a researcher and instructor in artificial intelligence and an advocate for digital rights. The Tawanavpn / Tawana Proxy project aims to improve free and secure internet access for Iranian users, with particular support for journalists and civil society actors. This section is for public introduction only and contains no technical or operational details. This roadmap reflects ongoing work in ethical, user‑safety‑centered internet‑freedom tooling.
 
 Executive summary
-This roadmap outlines potential funding pathways and the OTF IFF review workflow for the Tawanavpn project. Version v1.0 is a public starting point. The document is a living resource and will be updated regularly (estimated: weekly / iterative) as the project advances. Each update will include progress reports, lists of sanitized public tools and scripts, and links to high-level documentation. Public release of repositories will occur only after sanitization review to ensure no operationally sensitive material is published.
+This roadmap outlines potential funding pathways and the OTF IFF review workflow for the Tawanavpn project. Version 1.0 is a public starting point. The document is a living resource and will be updated regularly (weekly or phase‑based) as the project advances. Each update will include progress reports, lists of sanitized public tools and scripts, and links to high‑level documentation. Public release of repositories will occur only after sanitization review to ensure no operationally sensitive material is published. All public outputs described here are intended to be openly licensed after sanitization review.
 
 Contents
 - 1) Funding sources — categorized
@@ -149,8 +149,9 @@ Resources (v1 – public & non-sensitive)
 ---
 
 Closing summary
-This roadmap is an initial, public-facing document intended to clarify funding paths and the review process. It is deliberately non-technical and non-operational. The project is active and evolving; subsequent releases will expand on progress, list sanitized public tools and scripts, and provide high-level documentation suitable for funders and reviewers.
+This roadmap is an initial, public-facing document intended to clarify funding paths and the review process. It is deliberately non-technical and non-operational. The project is active and evolving; subsequent releases will publish sanitized public progress updates and high-level documentation suitable for funders and reviewers.
 
 Note: This roadmap will be updated as the project progresses.
 
 «ویرایش و تنظیم نهایی متن با کمک ChatGPT 5.1 و Copilot GPT-5 mini انجام شده است.»
+
